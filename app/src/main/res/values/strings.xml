@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">000TrainQR</string>
+    <string name="title_activity_load_previous_ticket">LoadPreviousTicket</string>
+</resources>
